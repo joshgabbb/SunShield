@@ -1,16 +1,10 @@
-# uvss
+Project Title: SunShield
 
-A new Flutter project.
+Description: UV Sensor using Arduino Uno R3 with ML8511 Sensor
 
-## Getting Started
+Technologies Used: Flutter, Dart, IoT, Arduino Uno R3, ML8511 UV SENSOR
 
-This project is a starting point for a Flutter application.
+Features: 
+- uv sensor connected to mobile phone
+- uv education
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
